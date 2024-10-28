@@ -3,32 +3,6 @@ Welcome to **Pristara**, your go-to suite for advanced energy market forecasting
 
 In this repository, you'll find tools and methodologies for both **Price-Only Forecasting** and **Multi-Factor Forecasting**, each in their own modules to provide precise and actionable results.
 
-## What's Inside
-
-```plaintext
-.
-├── .gitignore
-├── Data/
-│   ├── Demand_New.csv
-│   ├── gp.csv
-│   ├── On2_New.csv
-│   └── Ontario.csv
-├── price_only_forecasting/
-│   ├── data_processing.py
-│   ├── wavelet.py
-│   ├── arima.py
-│   ├── hilbert_huang.py
-│   ├── Power_forecasting.py
-│   ├── utils.py
-│   └── visualization.py
-├── multi_factor_forecasting/
-│   ├── data_loading.py
-│   ├── data_processing.py
-│   ├── forecasting.py
-│   ├── Power_forecasting.py
-│   └── visualization.py
-```
-
 ## Key Features
 
 ### Data Management and Preprocessing
